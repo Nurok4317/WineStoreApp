@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590943855931",
+    "project_id": "wineshop-c645b",
+    "storage_bucket": "wineshop-c645b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590943855931:android:fc4b8affe2dcb23717431e",
+        "android_client_info": {
+          "package_name": "com.example.winestoreapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6TpdyNp_f7PW7Y2FTrOLHWQnFSAs0EjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
